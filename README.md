@@ -24,8 +24,8 @@ Any version of gcc, and gmp library must be
 installed. In addition, you need two extra files:
 one which contains the message and another with 
 the following data:
-The prime : 2 * k * q + 1, and each prime factor 
-of k (without multiplicity), q and 2. 
+The prime : 2 * k * q + 1, each prime factor of k 
+(without multiplicity), q and 2. 
 
 You can see the file primes.txt as an example.
 
